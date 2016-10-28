@@ -1,6 +1,6 @@
 A test-driven node application
 
-[![Build Status](https://travis-ci.org/ericminio/tdd-ready-node.svg?branch=master)](https://travis-ci.org/ericminio/tdd-ready-node)
+[![CircleCI](https://circleci.com/gh/ericminio/lights-out.svg?style=svg)](https://circleci.com/gh/ericminio/lights-out)
 
 ## Get ready
 
