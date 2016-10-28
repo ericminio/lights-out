@@ -4,3 +4,17 @@
     padding: 10px;
     text-align: center;
 }
+
+a {
+    display:inline-block;
+    border: solid 1px;
+    margin: 10px;
+}
+
+.dark {
+    background-color: #0A5E0D;
+}
+
+.light {
+    background-color: #23D329;
+}

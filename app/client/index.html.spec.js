@@ -36,7 +36,7 @@ describe('index.html', function() {
 
             browser.visit(url + '/index.html')
                 .then(function() {
-                    expect(browser.query('#welcome').innerHTML).to.equal('Ready :)');
+                    expect(browser.query('#cell-1-1').style.width).to.equal('100px');
                 })
                 .then(done, done);
         });
